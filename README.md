@@ -1,3 +1,3 @@
-# mobile-poc
+# Insta360SDKTest
 
 Project for mobile POC
